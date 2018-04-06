@@ -1,0 +1,10 @@
+#navid1 > li{
+    color:white;
+    background-color:black;
+}
+#navid1 > li .active {
+    color:white;
+    background-color:black;
+}
+
+
