@@ -1,0 +1,7 @@
+.slide-pane__overlay.ReactModal__Overlay--after-open {
+    background: transparent;
+}
+:global(.dimmed.dimmable > .ui.modals.dimmer.visible) {
+  display: flex !important;
+}
+
